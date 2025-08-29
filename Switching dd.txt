@@ -1,0 +1,52 @@
+Links 
+
+S1Fa02 - S2Fa01
+S2Fa02 - S3Fa02
+S3Fa13 - S4Fa17
+S3Fa05 - S7Fa02
+S3Fa01 - S6Fa03
+S4Fa05 - S5Fa10
+S5Fa01 - S1Fa01
+S6Fa02 - S4Fa02
+S6Fa01 - S8Fa01
+S7Fa01 - S8Fa03
+
+MSFa04 - S1Fa06
+MSFa03 - S2Fa06
+MSFa08 - S3Fa10
+MSFa01 - S4Fa01
+MSFa19 - S5Fa14
+
+PC1 - S1Fa03
+PC2 - S1Fa04
+PC3 - S1Fa05
+PC4 - S2Fa03
+PC5 - S2Fa04
+PC6 - S2Fa05
+PC7 - S3Fa03
+PC8 - S3Fa04
+PC9 - S4Fa04
+PC10 - S4Fa05
+PC11 - S5Fa03
+PC12 - S5Fa04
+PC13 - S5Fa05
+PC14 - S8Fa02
+
+VLANs
+
+Vlan 10 name sales
+10.0.0.0/24
+Vlan 20 name accounting
+20.0.0.0/24
+Vlan 30 name marketing
+30.0.0.0/24
+Vlan 40 name hr 
+40.0.0.0/24
+Vlan 50 name it
+50.0.0.0/24
+
+S1Fa03-5 access vlan 10
+S2Fa03-5 access vlan 20
+S3Fa03-4 access vlan 30
+S4Fa04-5 access vlan 40
+S5Fa03-5 access vlan 50
